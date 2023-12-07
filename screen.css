@@ -1,17 +1,30 @@
+body{
+  background-color: #FAF9F6;
+}
+
 header {
     text-align: center;
   }
   
 header ul {
+    float: right;
     list-style-type: none;
     text-align: center;
-    margin: 0;
+    margin-right: 300px;
     padding: 0;
   }
   
 header ul li {
-    display: inline-block;
-    padding: 10px 20px;
+  padding: 10px 20px;
   }
+
+.personallogo{
+  margin-bottom: 400px;
+}
+.personalphoto{
+    border-radius: 50%;
+    max-width: 20%;
+    height: auto;
+}
   
  
