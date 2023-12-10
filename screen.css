@@ -58,9 +58,67 @@ header ul li {
 
 .aboutmecontent ul li{
   text-align: left;
+  margin-bottom: 20px;
+  font-size: 18px;
 }
 
 #aboutmetitles{
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.personalphoto2{
+  max-width: 25%;
+  height: auto;
+}
+
+.hellotheresection{
+  display: flex;
+  margin-left: 250px;
+  gap: 20px;
+}
+
+.affinitydiagram{
+  max-width: 45%;
+  height: auto;
+}
+
+.experiencesection{
+  margin-left: 50px;
+}
+
+.basketballphoto{
+  max-width: 15%;
+  height: auto;
+}
+
+.sportssection{
+  display: flex;
+  margin-left: 245px;
+  gap: 20px;
+}
+
+.hockeyphoto{
+  max-width: 25%;
+  height: auto;
+}
+
+.travelsection{
+  margin-left: 115px;
+}
+
+.travelimages{
+  display: flex;
+  flex-direction: row;
+  max-width: 25%;
+  gap: 150px;
+  height: 200px;
+  margin-left: 260px;
+  margin-bottom: 15px;
+}
+
+.resume{
+  text-align: center;
   font-size: 40px;
   font-weight: bold;
 }
