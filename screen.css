@@ -122,5 +122,39 @@ header ul li {
   font-size: 40px;
   font-weight: bold;
 }
-  
+
+.userresearchprojects{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 18px;
+}
+
+.projecttitlesmain{
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+}
+.specificprojects{
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.viewbutton{
+  width: 60%;
+  height: auto;
+}
+.previews{
+  width: 35%;
+  height: auto;
+  margin-bottom: 50px;
+  border-style: solid;
+}
+
+.buttons{
+  max-width: 75%;
+}
  
